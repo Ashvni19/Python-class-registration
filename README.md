@@ -1,1 +1,1 @@
-# Pytthon-class-registration
+# Python-class-registration
